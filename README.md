@@ -56,7 +56,7 @@ curl -L https://cpanmin.us | perl - App::cpanoutdated
 
 ```bash
 curl -o /usr/local/sbin/post-update.sh \
-  https://raw.githubusercontent.com/<your-repo>/main/post-update.sh
+  https://raw.githubusercontent.com/mjolnirgs/efa-to-rocky8-migration/main/post-update.sh
 chmod +x /usr/local/sbin/post-update.sh
 ```
 
